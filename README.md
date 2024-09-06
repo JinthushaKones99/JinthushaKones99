@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋, I'm Jinthusha Koneswaran.  I'm a passionate software developer with a keen interest in building user-friendly applications.<br> 👀 I'm interested in various aspects of software development, including front-end, back-end.<br> 🌱i'm currently learning React.<br>💞I'm looking to collaborate on open-source projects<br>
+Hi👋, I'm Jinthusha Koneswaran.  I'm a passionate software developer with a keen interest in building user-friendly applications.<br> 👀 I'm interested in various aspects of software development, including front-end, back-end.<br> 🌱i'm currently learning MERN Stack.<br>💞I'm looking to collaborate on open-source projects<br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@ Hi👋, I'm Jinthusha Koneswaran.  I'm a passionate software developer with a ke
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JinthushaKones99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JinthushaKones99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JinthushaKones99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
